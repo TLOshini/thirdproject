@@ -17,6 +17,7 @@ public class Thirdproject {
      */
     public static void main(String[] args) {
         System.out.println("Trying something here");
+        System.out.println("Typing something again is the change");
     }
     
 }
